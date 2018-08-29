@@ -1,0 +1,2 @@
+# ShinJungDongBot
+for Kakao Talk
